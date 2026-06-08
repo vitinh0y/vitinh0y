@@ -1,4 +1,4 @@
-﻿# 👋 Olá, eu sou o Vitinho!
+﻿# 👋 Olá, eu sou o Victor Santos!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&width=435&lines=Full-stack+developer;Python+%7C+Flask+%7C+JavaScript;Construindo+o+Modo+Carreira)](https://git.io/typing-svg)
 
