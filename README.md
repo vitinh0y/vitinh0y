@@ -15,7 +15,7 @@
 
 ---
 
-### 🎮 Projeto em destaque: Modo Carreira
+### 🎮 Projeto em destaque: PlannerWork
 
 Sistema de produtividade gamificada com RPG mechanics.
 
